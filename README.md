@@ -1,3 +1,4 @@
-# Projekat iz veba - minimalitični sajt
+# Projekat iz veba - minimalistični sajt
 
-easy shit
+* Tema: Super Mario 64 likovi
+* Zadovoljeni svi uslovi sa Classroom-a
