@@ -196,7 +196,7 @@ body {
 .characterNav {
   position: absolute;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   text-align: center;
 }
 
@@ -304,6 +304,7 @@ body {
     font-size: 24px;
   }
 }
+
 
 
 
