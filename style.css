@@ -197,7 +197,7 @@ body {
 .characterNav {
   position: absolute;
   bottom: 20px;
-  right: 20px;
+  right: 20px; /* dole desno type shi */
   text-align: center;
 }
 
@@ -305,6 +305,7 @@ body {
     font-size: 24px;
   }
 }
+
 
 
 
