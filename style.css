@@ -46,9 +46,8 @@ body {
 }
 
 .characterCard img {
-  width: 100%;
-  max-width: 250px;
-  height: auto;
+  width: 250px;
+  height: 250px;
   filter: drop-shadow(0 0 10px rgba(0, 0, 0, 1));
   transition: 0.2s;
   margin: 15px auto;
@@ -304,4 +303,5 @@ body {
     font-size: 24px;
   }
 }
+
 
