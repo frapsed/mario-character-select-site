@@ -171,6 +171,7 @@ body {
   justify-content: center;
   gap: 30px;
   margin-top: 20px;
+  margin-bottom: 100px;
 }
 
 .powerup {
@@ -304,6 +305,7 @@ body {
     font-size: 24px;
   }
 }
+
 
 
 
