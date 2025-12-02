@@ -1,4 +1,4 @@
-/* -------------------- RESPONSIVE FIXES -------------------- */
+/* -------------------- RESPONSIVE FIXES --------------------- */
 @media (max-width: 768px) {
   .sectionHeader h1 {
     font-size: 50px;
@@ -100,3 +100,4 @@
     font-size: 24px;
   }
 }
+
