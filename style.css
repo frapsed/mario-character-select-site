@@ -118,6 +118,8 @@ body {
 }
 
 .opisSlika {
+  width: 250px;
+  height: auto;
   margin: 20px auto 0;
   filter: drop-shadow(0 0 7px rgba(0, 0, 0, 1));
   transition: 0.2s;
@@ -305,6 +307,7 @@ body {
     font-size: 24px;
   }
 }
+
 
 
 
